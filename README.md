@@ -57,12 +57,8 @@ Based on the model coefficients:
 * `WA_Fn-UseC_-Telco-Customer-Churn.csv`: The dataset used for analysis.
 * `README.md`: Project documentation.
 
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/telco-churn-prediction.git](https://github.com/your-username/telco-churn-prediction.git)
 
-Install the required dependencies:
+##  Install the required dependencies:
 
 Bash
 pip install pandas matplotlib seaborn scikit-learn
